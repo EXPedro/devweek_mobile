@@ -8,7 +8,7 @@
 
 </br>
 
-:zap: Junto ao design da interface, foram também desenvolvidas habilidades em: :zap: 
+:zap: Junto ao design da interface, foram também desenvolvidas habilidades nas tecnologias :zap: 
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
